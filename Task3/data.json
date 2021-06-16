@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "",
+        "Email": "",
+        "Password": "",
+        "Comment": "",
+        "Gender": "",
+        "Hobby": "",
+        "File_Path": "files\/"
+    },
+    {
+        "Name": "",
+        "Email": "",
+        "Password": "",
+        "Comment": "",
+        "Gender": "",
+        "Hobby": "",
+        "File_Path": "files\/"
+    },
+    {
+        "Name": "Rifat Rudro",
+        "Email": "rudro@aiub.edu",
+        "Password": "123456789",
+        "Comment": "This is for testing purpose ",
+        "Gender": "Male",
+        "Hobby": "Dancing,Singing",
+        "File_Path": "files\/IMG_20210105_165257.jpg"
+    }
+]
